@@ -1,1 +1,1 @@
-Primeira versão do ficheiro. ! FIRST.TXT !
+Isto já foi alterado. ! first.txt !
